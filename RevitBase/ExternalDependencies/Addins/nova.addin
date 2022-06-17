@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Application">
+       <Name>Nova</Name>
+       <FullClassName>RevitBase.Nova</FullClassName>
+       <Text>Testing Plugin</Text>
+       <Description>Places the Group at Particular Point</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>C:\Users\riley\RiderProjects\Revit\RevitBase\bin\Debug\RevitBase.dll</Assembly>
+       <AddInId>08E0E517-49DC-4ACB-B3F0-E6E5A6E4EC2D</AddInId>
+    <VendorId>Nova</VendorId>
+    <VendorDescription>Testing Solution</VendorDescription>
+ </AddIn>
+</RevitAddIns>
